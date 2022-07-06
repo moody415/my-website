@@ -1,23 +1,22 @@
 body {
-    background-color: white;
-  }
+  background-color: white;
+}
+
+.red {
+  background-color: red;
+  width: 100px;
+  height: 100px;
   
-  .top-container {
-    background-color: red;
-    height: 200px;
-    width: 200px;
-    border: 10px;
-    margin: 20px;
-  }
-  
-  .bottom-container {
-    background-color: blue;
-    height: 200px;
-    width: 200px;
-  }
-  
-  .middle-container {
-    background-color: grey;
-    height: 200px;
-    width: 200px;
-  }
+}
+
+.blue {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.yellow {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
