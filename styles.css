@@ -6,6 +6,10 @@ body {
   background-color: red;
   width: 100px;
   height: 100px;
+  position: relative;
+  left: 40px;
+
+
   
 }
 
@@ -13,10 +17,14 @@ body {
   background-color: blue;
   width: 100px;
   height: 100px;
+  position: relative;
+  left: 140px;
 }
 
 .yellow {
   background-color: yellow;
   width: 100px;
   height: 100px;
+  position: relative;
+  left: 240px;
 }
