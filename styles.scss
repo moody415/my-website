@@ -27,3 +27,26 @@ a{
     color: inherit;
     font-family: inherit;
 }
+  
+   section{
+       min-height: 100vh;
+       width: 100%;
+       position: absolute;
+       left: 0;
+       top: 0;
+       padding: 3rem 18rem;
+
+   }
+     header{
+         height: 100vh;
+         color: var(--color-white);
+         overflow: hidden;
+
+     }
+
+     .section{
+         transform: translateY(-100%);
+         transition: all .4s ease-in-out;
+         background-color: var(--color-primary);
+         
+     }
